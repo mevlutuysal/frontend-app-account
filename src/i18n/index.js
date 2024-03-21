@@ -17,10 +17,14 @@ import dedeCAMessages from './messages/de_DE.json';
 import ititCAMessages from './messages/it_IT.json';
 import ptptCAMessages from './messages/pt_PT.json';
 import trMessages from './messages/tr-tr.json';
+import roMessages from './messages/ro.json';
+import slMessages from './messages/sl.json';
 // no need to import en messages-- they are in the defaultMessage field
 
 const appMessages = {
   'tr-tr': trMessages,
+  'ro': roMessages,
+  'sl': slMessages,
   ar: arMessages,
   'es-419': es419Messages,
   'fa-ir': faIRMessages,

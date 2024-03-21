@@ -4,6 +4,21 @@ const siteLanguageList = [
     name: 'English',
     released: true,
   },
+   {
+    code: 'tr-tr',
+    name: 'Turkish',
+    released: true,
+  },
+  {
+    code: 'sl',
+    name: 'Slovenian',
+    released: true,
+  },
+    {
+    code: 'ro',
+    name: 'Romanian',
+    released: true,
+  },
   {
     code: 'ar',
     name: 'العربية',
